@@ -1,0 +1,21 @@
+#gameH1{
+    text-align: center;
+}
+.divButInp{
+    display: flex;
+    justify-content: center;
+}
+#input{
+    width: 150px;
+    height: 30px;
+}
+#buttonGame{
+    width: 40px;
+    cursor: pointer;
+}
+.hushum{
+    text-align: center;
+}
+#resultH1{
+    text-align: center;
+}
